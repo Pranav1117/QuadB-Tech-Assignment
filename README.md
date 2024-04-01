@@ -4,14 +4,14 @@ Welcome to the To Do List application! This is a simple web application for mana
 
 ## Table of Contents
 
-- \[Getting Started\](#getting-started)
-  - \[Prerequisites\](#prerequisites)
-  - \[Installation\](#installation)
-- \[Running the Application\](#running-the-application)
-- \[Testing\](#testing)
-- \[Deployment\](#deployment)
-- \[Contributing\](#contributing)
-- \[License\](#license)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Getting Started
 
