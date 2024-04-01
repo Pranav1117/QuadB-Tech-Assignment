@@ -64,16 +64,3 @@ npm test
 
 This application is deployed to \[https://quadb-tech-assignment.onrender.com/\](https://quadb-tech-assignment.onrender.com/). Deployment is automated via GitHub Actions on each push to the `main` branch.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (\`git checkout -b feature/your-feature\`)
-3. Commit your changes (\`git commit -am 'Add some feature'\`)
-4. Push to the branch (\`git push origin feature/your-feature\`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the \[MIT License\](LICENSE).
