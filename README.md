@@ -27,4 +27,4 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone [https://github.com/Pranav1117/QuadB-Tech-Assignment.git]
