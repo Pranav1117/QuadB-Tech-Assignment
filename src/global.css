@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+.app{
+    background-image: linear-gradient(to right bottom ,#F9BBBE 20%,#DFD0CD 60%);
+    min-height: 100vh;
+}
