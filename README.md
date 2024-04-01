@@ -28,3 +28,10 @@ Before running the application, ensure you have the following installed:
 
 ```bash
 git clone [https://github.com/Pranav1117/QuadB-Tech-Assignment.git]
+
+
+## Deployment
+
+This application is deployed to [https://quadb-tech-assignment.onrender.com/]. Deployment is automated via GitHub Actions on each push to the `main` branch.
+
+
