@@ -26,29 +26,29 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-\```bash
+```bash
 git clone https://github.com/Pranav1117/QuadB-Tech-Assignment.git
-\```
+```
 
 2. Navigate to the project directory:
 
-\```bash
+```bash
 cd QuadB-Tech-Assignment
-\```
+```
 
 3. Install dependencies:
 
-\```bash
+```bash
 npm install
-\```
+```
 
 ## Running the Application
 
 To run the application locally, use the following command:
 
-\```bash
+```bash
 npm start
-\```
+```
 
 This will start the development server and open the application in your default web browser.
 
@@ -56,9 +56,9 @@ This will start the development server and open the application in your default 
 
 To run tests, use the following command:
 
-\```bash
+```bash
 npm test
-\```
+```
 
 ## Deployment
 
